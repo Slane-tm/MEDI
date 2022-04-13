@@ -1,1 +1,1 @@
-# cryptocurrency website
+# not adaptive
